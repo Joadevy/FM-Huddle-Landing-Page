@@ -116,6 +116,7 @@ button:hover {
 }
 
 .get-started__cta {
+  border:none;
   border-radius: 25px;
   padding: 0.65rem 2.8rem;
   background-color: var(--pink);
@@ -219,7 +220,7 @@ footer {
 
 header {
   min-height: 100vh;
-  background: url("/src/assets/patterns/bg-hero-mobile.svg") no-repeat;
+  background: url("../assets/patterns/bg-hero-mobile.svg") no-repeat;
   background-color: #D9F0EE;
 }
 header .cont-nav {
@@ -284,7 +285,7 @@ header .hero .hero-cont-img img {
 @media screen and (min-width: 1024px) {
   header {
     min-height: 100vh;
-    background: url("/src/assets/patterns/bg-hero-desktop.svg") no-repeat;
+    background: url("../assets/patterns/bg-hero-desktop.svg") no-repeat;
     background-color: #D9F0EE;
   }
   header .cont-nav {
