@@ -287,7 +287,7 @@ header .cont-nav button {
 }
 .hero {
   min-height: 100vh;
-  background: url("/src/assets/patterns/bg-hero-mobile.svg");
+  background: url("../assets/patterns/bg-hero-mobile.svg");
   background-size: contain;
   display: flex;
   flex-direction: column;
@@ -338,7 +338,7 @@ header .cont-nav button {
 @media screen and (min-width: 1024px) {
   main .hero {
     min-height: 100vh;
-    background: url("/src/assets/patterns/bg-hero-desktop.svg");
+    background: url("../assets/patterns/bg-hero-desktop.svg");
     background-size: cover;
     display: flex;
     flex-direction: row;
