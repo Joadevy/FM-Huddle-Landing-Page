@@ -1,7 +1,7 @@
 **Welcome everybody to my little project! 👋**
 
 ## Live site 🚀
-- Live Site URL: [https://joadevy.github.io/landing-page-huddle/]
+- Live Site URL: [https://joadevy.github.io/FM-Huddle-Landing-Page/]
 
 ## Table of contents
   - [Live Site](#live-site)
